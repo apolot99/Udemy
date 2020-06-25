@@ -79,3 +79,14 @@
 # They provide data integrity
 
 # Sets are unordered collection sof unique elements; there can only be one representative of the same object
+
+# append means to add more lines to the end of a text file.
+
+# Permissions means to be able to either read or write to a file or both.
+
+#     READ WRITING AND APPENDING MODES
+# -mode = 'r' is read only
+# -mode = 'w' is write only (will overwrite files or create new)
+# -mode = 'a' is append only (will add on to files)
+# -mode = 'r+' is reading and writing
+# -mode = 'w+' is writing and reading (overwrites existing files or creates a new file)
