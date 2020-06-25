@@ -34,11 +34,11 @@
 # -Integers (whole numbers)
 # -Floating point (whole numbers with decimals)
 # -Strings (syntax of characters using either single or double quotes e.g "hello world")
-# -Lists
-# -Dictionaries
-# -Tuples
+# -Lists (ordered sequences that can hold a variety of object types. It is defined by square brackets and every object separated by comma.)
+# -Dictionaries (unordered mappings for stroing objects using a key value paring)
+# -Tuples (similar to strings but can not be changed. They use parenthesis)
 # -Sets
-# -Booleans
+# -Booleans (operators that allow you to convey either true or false)
 
 # use the mod opeartor(%) to find out the remainder from dividing.
 # If mod 2 results in anything other than zero then that number is odd.
@@ -69,4 +69,13 @@
 
 # numbers in strings can not be added.
 
-# String interpolation means injectinf a varibale in to a string.
+# String interpolation means sticking a varibale in to a string.
+
+# float formatting with the .format method follows this {value:width.precision f}
+
+# dictionaries follow this {'string key':'value'}
+
+# Tuples are useful when you are passing objects in your program and you do not want them to be accidentally changed.
+# They provide data integrity
+
+# Sets are unordered collection sof unique elements; there can only be one representative of the same object
